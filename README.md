@@ -64,6 +64,8 @@ I wanted to build something that feels both **cosmic and meditative**, pulling v
 - GitHub Pages  
 
 ---
+**Video** 
+https://www.youtube.com/watch?v=e5alxNjNEgA&t=121s
 
 ## 🪞 Author
 **Tejeshwini R**  
